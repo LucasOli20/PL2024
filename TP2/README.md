@@ -8,7 +8,7 @@
 
 - **Nr.Aluno**: A98695
 
-# Objetio
+# Objetivo
 Consistiu em criar um convertor de ficheiros do tipo `MarkDown` para `HTML` para os seguintes elementos:
 
 - **Cabeçalhos**
