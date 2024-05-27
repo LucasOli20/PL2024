@@ -1,6 +1,6 @@
-# TPC3 - Somador ON/OFF
+# TPC3 - Analisador léxico SQL
 
-# 2024-02-16
+# 2024-03-01
 
 # Autor
 
