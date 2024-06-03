@@ -1,0 +1,74 @@
+[
+  {
+    "cod": "B12",
+    "nome": "Ch\u00e1 Gelado",
+    "quant": 12,
+    "preco": 1.5
+  },
+  {
+    "cod": "C45",
+    "nome": "Bolachas",
+    "quant": 25,
+    "preco": 1.2
+  },
+  {
+    "cod": "D67",
+    "nome": "Barra de Twix",
+    "quant": 30,
+    "preco": 1.0
+  },
+  {
+    "cod": "E89",
+    "nome": "Sumo de Laranja 0.5L",
+    "quant": 10,
+    "preco": 2.0
+  },
+  {
+    "cod": "F34",
+    "nome": "Crackers",
+    "quant": 20,
+    "preco": 0.8
+  },
+  {
+    "cod": "G56",
+    "nome": "Sandes de Queijo",
+    "quant": 8,
+    "preco": 2.5
+  },
+  {
+    "cod": "H78",
+    "nome": "Massa Instant\u00e2nea",
+    "quant": 6,
+    "preco": 1.7
+  },
+  {
+    "cod": "I90",
+    "nome": "Banana",
+    "quant": 10,
+    "preco": 1.1
+  },
+  {
+    "cod": "J01",
+    "nome": "Mistura de Frutos Secos",
+    "quant": 15,
+    "preco": 1.3
+  },
+  {
+    "cod": "A33",
+    "nome": "\u00c1gua Mineral 0.5L",
+    "quant": 18,
+    "preco": 0.9
+  },
+  {
+    "cod": "D23",
+    "nome": "Sandes de Frango",
+    "quant": 7,
+    "preco": 1.5
+  },
+  {
+    "cod": "B140",
+    "nome": "BANANA",
+    "quant": "10",
+    "preco": "1.5"
+  }
+]
